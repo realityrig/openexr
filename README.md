@@ -1,4 +1,6 @@
 # OpenEXR
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frealityrig%2Fopenexr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frealityrig%2Fopenexr?ref=badge_shield)
+
 
 
 **OpenEXR** is a high dynamic-range (HDR) image file format developed by
@@ -58,3 +60,7 @@ Please see the README files of each of the individual directories for more infor
 
 A collection of OpenEXR images is available from the adjacent repository
 [openexr-images](https://github.com/openexr/openexr-images).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frealityrig%2Fopenexr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frealityrig%2Fopenexr?ref=badge_large)
